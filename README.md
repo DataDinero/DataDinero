@@ -1,3 +1,6 @@
+
+![Data_Dinero_Logo (2)](https://github.com/DataDinero/DataDinero/assets/133455850/3a0cde8a-2c43-4ed0-9def-b662d7df86e0)
+
 Welcome to Data Dinero!
 
 We help businesses of all sizes harness the power of their data to drive growth and success, so they can turn their data into dinero. Our mission is to empower businesses with the insights and tools they need to make data-driven decisions and stay ahead of the competition.
