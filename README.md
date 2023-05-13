@@ -23,7 +23,7 @@ A focus on delivering actionable insights that drive real business results
 A commitment to transparency and open communication throughout the project lifecycle
 A team of experienced data professionals with a passion for innovation and excellence
 A proven track record of delivering high-quality work on time and within budget
-We would love to hear from you! If you're interested in learning more about our services or discussing how we can help your business succeed with data, please don't hesitate to reach out. You can contact us through GitHub, or visit our website at www.datadinero.co. Thank you for considering Data Dinero for your data needs!
+We would love to hear from you! If you're interested in learning more about our services or discussing how we can help your business succeed with data, please don't hesitate to reach out. You can contact us through GitHub, or visit our website. Thank you for considering Data Dinero for your data needs!
 
 
 
